@@ -1,0 +1,4 @@
+language: php
+sudo: required
+install:
+ - sudo pip install -U docker-compose boto3
