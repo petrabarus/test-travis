@@ -2,4 +2,4 @@ language: php
 sudo: required
 #testing
 install:
- - sudo pip install -i https://pypi.fcio.net/simple -U docker-compose boto3
+ - sudo pip install -i http://pypi.fcio.net/simple -U docker-compose boto3
